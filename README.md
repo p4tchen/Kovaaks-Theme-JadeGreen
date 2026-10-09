@@ -1,6 +1,6 @@
-# Kovaaks-Theme-JadeGreen
+# Kovaaks-Theme-JadeNight
 
-<img width="640" height="360" alt="JadeGreen" src="https://github.com/user-attachments/assets/2dbc5130-7a1f-4fe5-b70f-0658c5f5024a" />
+<img width="640" height="360" alt="JadeNight" src="https://github.com/user-attachments/assets/2dbc5130-7a1f-4fe5-b70f-0658c5f5024a" />
 
 Download the .json file in this repository. Now, go on Steam, open up KovaaK's Steam page, and go to the settings icon in the middle right of the screen. You can see the icon in the picture below:
 
